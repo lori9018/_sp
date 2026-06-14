@@ -10,6 +10,8 @@
 課程教材 | https://github.com/ccc114b/cpu2os<br/>https://github.com/cccbook/ai-teach-you/blob/main/sp/tw/README.md<br/>https://github.com/ccc-c/c0computer
 
 ---
+作業皆是用Gemini和opencode完成
+無複製他人內容
 
 ## 📂 目錄結構
 
